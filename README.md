@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> -->
 
-  [![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css&theme=dark)]
   
 </div>
 
