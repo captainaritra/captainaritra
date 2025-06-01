@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-🔭 I’m currently working on My Self<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Open Source<br>🌱 I’m currently learning Python<br>💬 Ask me about anything, I am happy to help<br>⚡ Fun fact - "Everything Is Temporary"
+🔭 I’m currently working on My Self<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Open Source<br>🌱 I’m currently learning Web Development<br>💬 Ask me about anything, I am happy to help<br>⚡ Fun fact - "Everything Is Temporary"
 
 ## 🌐 Socials:
 
