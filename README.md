@@ -68,20 +68,6 @@
 
 ###
 
-<h2 align="left">Databases</h2>
-<div align="left">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /> -->
-
-  ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark)
-  
-</div>
-
-###
-
 <h2 align="left">Tools I Use</h2>
 <div align="left">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
@@ -98,12 +84,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> -->
 
-  ![My Skills](https://skillicons.dev/icons?i=vscode,figma,idea,pycharm,postman,npm,git,github,linux&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=vscode,figma,npm,git,github,linux&theme=dark)
 
   
 </div>
 
-###
 
 # 📊 GitHub Stats:
 
